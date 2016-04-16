@@ -1,5 +1,5 @@
 function [ rootNode ] = xml_read( filePath )
-%XML_READ construct tree structure from xml file
+%XML_READ constructs tree structure from xml file
 % Created by Tianshu Wei
 % 01/13/2016
     try
